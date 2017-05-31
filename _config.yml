@@ -1,7 +1,7 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
+title:               Bible of Saint Louis
 tagline:             'A Jekyll theme for minimal editions'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://elotroalex.github.io'
@@ -9,7 +9,7 @@ baseurl:             '/ed'
 
 # About/contact
 author:
-  name:              Alex Gil
+  name:              Kerry Boeye
   url:               https://twitter.com/elotroalex
   email:             colibri.alex@gmail.com
 
